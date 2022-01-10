@@ -20,8 +20,8 @@ namespace Laboratory_Work_Five.Controllers
                         Surname = "Смирнов",
                         Name = "Алексей",
                         MiddleName = "Олегович",
-                        PassportSeries = 123456,
-                        PassportNumber = 5678,
+                        PassportSeries = 1234,
+                        PassportNumber = 123456,
                         Reason = "На пенсию",
                         WorkExperience = 5,
                         IsOptional = true
@@ -34,8 +34,8 @@ namespace Laboratory_Work_Five.Controllers
                         Surname = "Соловьев",
                         Name = "Иван",
                         MiddleName = "Дмитриевич",
-                        PassportSeries = 123459,
-                        PassportNumber = 5178,
+                        PassportSeries = 5678,
+                        PassportNumber = 123456,
                         Reason = "Смена места работы",
                         WorkExperience = 9,
                         IsOptional = true
