@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1DG5XqvQluTJ4ZigcXsEilbCBChcbLv9MXoveoGLxQP4dajTOABmSVjsTHQqrZW1ZowzqmFvxpPuXmDLiaCVg==",
+  "success": true,
+  "projectFilePath": "D:\\Institute\\Семестр 7\\Тестирование\\Лабораторная работа 5\\Laboratory Work Five Git\\Testing-Laboratory-Work-Five\\Laboratory-Work-Five\\Laboratory-Work-Five.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\megab\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\megab\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\megab\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\megab\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\megab\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\megab\\.nuget\\packages\\nunit3testadapter\\4.2.0\\nunit3testadapter.4.2.0.nupkg.sha512",
+    "C:\\Users\\megab\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\megab\\.nuget\\packages\\selenium.webdriver.chromedriver\\97.0.4692.7100\\selenium.webdriver.chromedriver.97.0.4692.7100.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,66 @@
+﻿@model VacancyModel;
+
+@{
+    @using (Html.BeginForm("PerformVacancyAction", "Vacancy", FormMethod.Post))
+    {
+        <div class="contaner">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <p>Заголовок:</p>
+                    @Html.TextBoxFor(model => model.enteredVacancy.Title)
+                </li>
+                <li class="nav-item">
+                    <p>Описание:</p>
+                    @Html.TextBoxFor(model => model.enteredVacancy.Description)
+                </li>
+                <li class="nav-item">
+                    <p>Дата размещения:</p>
+                    @Html.TextBoxFor(model => model.enteredVacancy.Date)
+                </li>
+                <li class="nav-item">
+                    <p>Заработная плата:</p>
+                    @Html.TextBoxFor(model => model.enteredVacancy.EstimatedSalary)
+                </li>
+                <li class="nav-item">
+                    <p>Дополнительная информация:</p>
+                    @Html.TextBoxFor(model => model.enteredVacancy.AdditionLink)
+                </li>
+
+                <div style="margin-top:24px; margin-bottom:16px;">
+                    <li class="nav-item" style="display: inline;">
+                        <input class="btn btn-primary" name="submitButton" type="submit" value="Добавить">
+                    </li>
+
+                    <li class="nav-item" style="display: inline;">
+                        <input class="btn btn-primary" name="submitButton" type="submit" value="Удалить">
+                    </li>
+                </div>
+            </ul>
+        </div>
+    }
+}
+
+<h2>Список вакансий</h2>
+
+<table class="table">
+
+    <tr>
+        <th>
+            Описание
+        </th>
+        <th></th>
+    </tr>
+
+    @if (Model.allDescription != null)
+    {
+        @foreach (var item in Model.allDescription)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item)
+                </td>
+            </tr>
+        }
+    }
+
+</table>

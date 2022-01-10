@@ -1,0 +1,106 @@
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\appsettings.Development.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\appsettings.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.exe
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.deps.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.runtimeconfig.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.runtimeconfig.dev.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\ref\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.Views.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.Views.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.csproj.AssemblyReference.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.GeneratedMSBuildEditorConfig.editorconfig
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.AssemblyInfoInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.AssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.csproj.CoreCompileInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.MvcApplicationPartsAssemblyInfo.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorAssemblyInfo.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorAssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\scopedcss\bundle\Laboratory-Work-Five.styles.css
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\staticwebassets\Laboratory-Work-Five.StaticWebAssets.Manifest.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.TagHelpers.input.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.TagHelpers.output.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorCoreGenerate.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorTargetAssemblyInfo.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorTargetAssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.Views.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\ref\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.genruntimeconfig.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.csproj.CopyComplete
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-One.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Vacancy\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.engine.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\testcentric.engine.metadata.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.framework.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\WebDriver.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five\Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\ResigningPerson\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\appsettings.Development.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\appsettings.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.engine.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\testcentric.engine.metadata.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.exe
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.deps.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.runtimeconfig.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.runtimeconfig.dev.json
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\ref\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.Views.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-Five.Views.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\nunit.framework.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\WebDriver.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\bin\Debug\net5.0\Laboratory-Work-One.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.csproj.AssemblyReference.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.GeneratedMSBuildEditorConfig.editorconfig
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.AssemblyInfoInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.AssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.csproj.CoreCompileInputs.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.MvcApplicationPartsAssemblyInfo.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorAssemblyInfo.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorAssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\scopedcss\bundle\Laboratory-Work-Five.styles.css
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\staticwebassets\Laboratory-Work-Five.StaticWebAssets.Manifest.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.TagHelpers.input.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.TagHelpers.output.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorCoreGenerate.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\ResigningPerson\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\Vacancy\Index.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorTargetAssemblyInfo.cache
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.RazorTargetAssemblyInfo.cs
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.Views.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.csproj.CopyComplete
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\ref\Laboratory-Work-Five.dll
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.pdb
+D:\Institute\Семестр 7\Тестирование\Лабораторная работа 5\Laboratory Work Five Git\Testing-Laboratory-Work-Five\Laboratory-Work-Five\obj\Debug\net5.0\Laboratory-Work-Five.genruntimeconfig.cache

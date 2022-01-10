@@ -1,0 +1,126 @@
+﻿@model EmployeeModel;
+
+<h2>@Model.resultSearching</h2>
+
+@{
+    @using (Html.BeginForm("PerformEmployeeAction", "Employee", FormMethod.Post))
+    {
+        <div class="contaner">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <p>Фамилия:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.Surname)
+                </li>
+                <li class="nav-item">
+                    <p>Имя:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.Name)
+                </li>
+                <li class="nav-item">
+                    <p>Отчество:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.MiddleName)
+                </li>
+                <li class="nav-item">
+                    <p>Серия паспорта:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.PassportSeries)
+                </li>
+                <li class="nav-item">
+                    <p>Номер паспорта:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.PassportNumber)
+                </li>
+                <li class="nav-item">
+                    <p>Возраст:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.Age)
+                </li>
+                <li class="nav-item">
+                    <p>Адрес:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.Post)
+                </li>
+                <li class="nav-item">
+                    <p>Зарплата:</p>
+                    @Html.TextBoxFor(model => model.enteredEmployee.Salary)
+                </li>
+
+                <div style="margin-top:24px; margin-bottom:16px;">
+                    <li class="nav-item" style="display: inline;">
+                        <input class="btn btn-primary" name="submitButton" type="submit" value="Добавить">
+                    </li>
+
+                    <li class="nav-item" style="display: inline;">
+                        <input class="btn btn-primary" name="submitButton" type="submit" value="Удалить">
+                    </li>
+
+                    <li class="nav-item" style="display: inline;">
+                        <input class="btn btn-primary" name="submitButton" type="submit" value="Найти">
+                    </li>
+                </div>
+            </ul>
+        </div>
+    }
+}
+
+<h2>Список сотрудников</h2>
+
+<table class="table">
+
+    <tr>
+        <th>
+            Фамилия
+        </th>
+        <th>
+            Имя
+        </th>
+        <th>
+            Отчество
+        </th>
+        <th>
+            Серия паспорта
+        </th>
+        <th>
+            Номер паспорта
+        </th>
+        <th>
+            Возраст
+        </th>
+        <th>
+            Адрес
+        </th>
+        <th>
+            Зарплата
+        </th>
+        <th></th>
+    </tr>
+
+    @if (Model.allEmployees != null)
+    {
+        @foreach (var item in Model.allEmployees)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.MiddleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.PassportSeries)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.PassportNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Age)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Post)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Salary)
+                </td>
+            </tr>
+        }
+    }
+
+</table>

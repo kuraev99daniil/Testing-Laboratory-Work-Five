@@ -1,0 +1,86 @@
+﻿@model ResigningPersonModel;
+
+<h2>@Model.resultSearching</h2>
+
+@{
+    @using (Html.BeginForm("Find", "ResigningPerson", FormMethod.Post))
+    {
+        <div class="contaner">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <p>Серия паспорта:</p>
+                    @Html.TextBoxFor(model => model.passportSeries)
+                </li>
+                <li class="nav-item">
+                    <p>Номер паспорта:</p>
+                    @Html.TextBoxFor(model => model.passportNumber)
+                </li>
+
+                <li class="nav-item" style="display: inline; margin-top:24px; margin-bottom:16px;">
+                        <input class="btn btn-primary" name="submitButton" type="submit" value="Найти">
+                </li>
+            </ul>
+        </div>
+    }
+}
+
+<h2>Список увольняющихся</h2>
+
+<table class="table">
+
+    <tr>
+        <th>
+            Фамилия
+        </th>
+        <th>
+            Имя
+        </th>
+        <th>
+            Отчество
+        </th>
+        <th>
+            Серия паспорта
+        </th>
+        <th>
+            Номер паспорта
+        </th>
+        <th>
+            Причина
+        </th>
+        <th>
+            Трудовой стаж
+        </th>
+        <th></th>
+    </tr>
+
+    @if (Model.allResigningPersons != null)
+    {
+        @foreach (var item in Model.allResigningPersons)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.MiddleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.PassportSeries)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.PassportNumber)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Reason)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.WorkExperience)
+                </td>
+            </tr>
+        }
+    }
+
+</table>
